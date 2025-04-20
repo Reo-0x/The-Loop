@@ -1,6 +1,7 @@
 # The Loop - Weekly Objective Tracker
 
-![The Loop Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/77ad1046-fc5c-4000-b747-08d9f3587ee7)
+
 
 A cyberpunk-themed weekly objective tracker with a clean, modern UI and smooth user experience.
 
@@ -49,13 +50,3 @@ $dbname = 'your_database_name';
 $username = 'your_username';
 $password = 'your_password';
 ```
-
-## Screenshots
-
-- Login/Signup Page
-- Dashboard with Weekly Overview
-- Objective Management
-
-## License
-
-MIT License
