@@ -24,7 +24,7 @@ A cyberpunk-themed weekly objective tracker with a clean, modern UI and smooth u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/the-loop.git
+   git clone https://github.com/Reo-0x/the-loop.git
    ```
 
 2. Set up the database:
